@@ -1,0 +1,19 @@
+{
+  "type": "record",
+  "name": "Info",
+  "namespace": "com.adelpozo.streaming.events.model",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "secondName",
+      "type": "string"
+    },
+    {
+      "name": "surname",
+      "type": "string"
+    }
+  ]
+}
